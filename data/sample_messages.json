@@ -1,0 +1,122 @@
+[
+    {
+        "role": "user",
+        "content": "Hey, had such a rough day at work today. My manager keeps piling on deadlines."
+    },
+    {
+        "role": "user",
+        "content": "I really need to start meditating or something. Everyone keeps recommending it."
+    },
+    {
+        "role": "user",
+        "content": "Went hiking this weekend and it was amazing! Nature really helps me decompress."
+    },
+    {
+        "role": "user",
+        "content": "I've been at this startup for 2 years now. Sometimes I wonder if I should switch."
+    },
+    {
+        "role": "user",
+        "content": "My sister's wedding is next month. So much to do!"
+    },
+    {
+        "role": "user",
+        "content": "I love cooking but never have time during weekdays. It's always takeout."
+    },
+    {
+        "role": "user",
+        "content": "Started reading philosophy recently. Stoicism is pretty interesting."
+    },
+    {
+        "role": "user",
+        "content": "The deadline stress is killing me. I couldn't sleep last night."
+    },
+    {
+        "role": "user",
+        "content": "I prefer when people are direct with me. Can't stand passive-aggressive behavior."
+    },
+    {
+        "role": "user",
+        "content": "Thinking about getting a dog. My apartment allows pets finally!"
+    },
+    {
+        "role": "user",
+        "content": "Work from home has been great. I'm so much more productive."
+    },
+    {
+        "role": "user",
+        "content": "My best friend moved to the US last year. I miss our coffee chats."
+    },
+    {
+        "role": "user",
+        "content": "I should really exercise more. Used to run 5k every week."
+    },
+    {
+        "role": "user",
+        "content": "Another late night at work. This project is never-ending."
+    },
+    {
+        "role": "user",
+        "content": "Finally finished that book on mindfulness. Some good insights."
+    },
+    {
+        "role": "user",
+        "content": "I value honesty above everything else in relationships."
+    },
+    {
+        "role": "user",
+        "content": "Bangalore traffic is insane. I leave super early for meetings."
+    },
+    {
+        "role": "user",
+        "content": "My parents want me to get married soon. Typical, right?"
+    },
+    {
+        "role": "user",
+        "content": "I get really anxious before important presentations. Working on it."
+    },
+    {
+        "role": "user",
+        "content": "Love that new cafe near my office. Great filter coffee!"
+    },
+    {
+        "role": "user",
+        "content": "Weekends are sacred. I refuse to check work emails."
+    },
+    {
+        "role": "user",
+        "content": "Been feeling a bit lonely lately. Most friends are busy with kids."
+    },
+    {
+        "role": "user",
+        "content": "I should invest more. My savings are just sitting there."
+    },
+    {
+        "role": "user",
+        "content": "That team outing was actually fun. Rare for work events."
+    },
+    {
+        "role": "user",
+        "content": "I'm a morning person. Most productive before 10 AM."
+    },
+    {
+        "role": "user",
+        "content": "Finally got that promotion! All the stress was worth it."
+    },
+    {
+        "role": "user",
+        "content": "I prefer deep conversations over small talk. What's the point otherwise?"
+    },
+    {
+        "role": "user",
+        "content": "Thinking about learning a new language. Maybe Japanese?"
+    },
+    {
+        "role": "user",
+        "content": "Work-life balance is so hard to maintain in startups."
+    },
+    {
+        "role": "user",
+        "content": "Grateful for my support system though. Friends really help."
+    }
+]
